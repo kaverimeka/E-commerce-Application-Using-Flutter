@@ -76,6 +76,9 @@ Test the Application:
 flutter test
 
 Dependencies:
+<br/>
 Flutter SDK
+<br/>
 Riverpod
+<br/>
 HTTP package
