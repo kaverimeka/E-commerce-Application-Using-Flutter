@@ -1,0 +1,119 @@
+# name: ecommerce_app
+# description: "A Flutter e-commerce application."
+
+# publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# version: 1.0.0+1
+
+# environment:
+#   sdk: '>=3.4.3 <4.0.0'
+
+# dependencies:
+#   flutter:
+#     sdk: flutter
+#   provider: ^6.0.0
+#   http: ^0.13.4
+#   # http: ^1.2.2  # Updated version
+#   cupertino_icons: ^1.0.6
+
+# dev_dependencies:
+#   flutter_test:
+#     sdk: flutter
+#   flutter_lints: ^4.0.0  # Update to the latest version
+
+# flutter:
+#   uses-material-design: true
+
+#   Uncomment this section to include assets
+#   assets:
+#     - assets/images/
+  
+#   Uncomment this section to include custom fonts
+#   fonts:
+#     - family: Schyler
+#       fonts:
+#         - asset: fonts/Schyler-Regular.ttf
+#         - asset: fonts/Schyler-Italic.ttf
+#           style: italic
+#     - family: Trajan Pro
+#       fonts:
+#         - asset: fonts/TrajanPro.ttf
+#         - asset: fonts/TrajanPro_Bold.ttf
+#           weight: 700
+
+
+#   Uncomment this section to include assets
+#   assets:
+#     - assets/images/
+  
+#   Uncomment this section to include custom fonts
+#   fonts:
+#     - family: Schyler
+#       fonts:
+#         - asset: fonts/Schyler-Regular.ttf
+#         - asset: fonts/Schyler-Italic.ttf
+#           style: italic
+#     - family: Trajan Pro
+#       fonts:
+#         - asset: fonts/TrajanPro.ttf
+#         - asset: fonts/TrajanPro_Bold.ttf
+#           weight: 700
+
+name: ecommerce_app
+description: "A Flutter e-commerce application."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.0
+  http: ^0.13.4
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  # # Uncomment this section to include assets
+  # assets:
+  #   - assets/images/
+
+  # # Uncomment this section to include custom fonts
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
