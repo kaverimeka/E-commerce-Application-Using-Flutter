@@ -63,17 +63,21 @@ Includes a README file with comprehensive setup and run instructions.
 ## How to set Up and Run the Application
 
 Clone the Repository:
+<br/>
 git clone https://github.com/kaverimeka/ecommerce-flutter-app.git
 <br/>
 cd ecommerce-flutter-app
 
 Install Dependencies:
+<br/>
 flutter pub get
 
 Run the Application:
+<br/>
 flutter run
 
 Test the Application:
+<br/>
 flutter test
 
 Dependencies:
